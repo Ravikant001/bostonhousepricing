@@ -3,4 +3,5 @@ sklearn
 pandas
 numpy 
 matplotlib
-
+seaborn
+pickle
